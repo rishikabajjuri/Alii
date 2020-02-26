@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320491329668",
+    "firebase_url": "https://alii-5900f.firebaseio.com",
+    "project_id": "alii-5900f",
+    "storage_bucket": "alii-5900f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320491329668:android:c883d32d80db3e5fe88ad1",
+        "android_client_info": {
+          "package_name": "com.example.alii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320491329668-fkg93a9rfqmlho6pt36ndjljcrl0k6gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIwmRaHd4-IEi0EB008oENoiOGU4LJANA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320491329668-fkg93a9rfqmlho6pt36ndjljcrl0k6gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
